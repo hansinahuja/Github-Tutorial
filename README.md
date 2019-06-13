@@ -1,2 +1,2 @@
 # test_repository
-Working with GitHub functions.
+Learning how to use GitHub.
